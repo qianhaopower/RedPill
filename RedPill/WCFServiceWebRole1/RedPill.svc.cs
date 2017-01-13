@@ -18,7 +18,7 @@ namespace WCFServiceWebRole1
 
         public Guid WhatIsYourToken()
         {
-            return Guid.Parse("b76d1eb4-9575-4b69-9578-b6d770ac439c");
+            return Guid.Parse("xxx");
         }
 
 
